@@ -1,0 +1,5 @@
+*.tfstate
+*.swap
+*.*~
+*.backup
+.terraform/
